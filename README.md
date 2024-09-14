@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Kapil Sisodiya
-- 👀 I’m interested in web dev and java
-- 🌱 I’m currently learning Html
+- 👀 I’m interested in web dev and backend engineering 
+- 🌱 I’m currently learning Html and Java 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
-- 😄 Pronouns: ...
+- 📫 How to reach me .. Instagram 
+https://www.instagram.com/k_apil56?igsh=YzljYTk1ODg3Zg==
+- 😄 Pronouns: He 
 - ⚡ Fun fact: ...
 
 <!---
