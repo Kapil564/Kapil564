@@ -1,6 +1,4 @@
 # Kapil
-
-## Full Stack Developer 
 ---
 ## About Me
 Developer who loves turning ideas into real, working products. I enjoy building things end-to-end — clean frontends, solid backends, and everything in between.
