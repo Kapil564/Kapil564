@@ -4,7 +4,6 @@
 
 **Full-Stack Developer · Bengaluru, India**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kapil564-181717?style=flat-square&logo=github)](https://github.com/Kapil564)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kapilsiso754-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kapilsiso754/)
 [![Email](https://img.shields.io/badge/Email-kapilsiso754@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:kapilsiso754@gmail.com)
 
