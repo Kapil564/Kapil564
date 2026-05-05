@@ -14,8 +14,8 @@
 
 Developer who loves turning ideas into real, working products — clean frontends, solid backends, and everything in between.
 
-- 🔭 Currently building **Job Tracker SaaS**
-- 🌱 Deepening my understanding of **System Design**
+- 🔭 Currently building **guess.io**
+- 🌱 learning  **System Design**
 - 🤝 Open to collaborations and new opportunities
 
 ---
