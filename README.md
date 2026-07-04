@@ -23,7 +23,7 @@
 
 ## ⚡ What I'm About
 
-Second-year CS student at **BITS Pilani** (via Scaler School of Technology), Bengaluru. I build around problems I actually face — not for practice, but because the thing needs to exist.
+CS student at **BITS Pilani** (via Scaler School of Technology), Bengaluru. I build around problems I actually face — not for practice, but because the thing needs to exist.
 
 Currently deep in a **WhatsApp expense tracking bot** — natural language parsing in English/Hindi/Hinglish, group splits, debt tracking, settlements. Node.js + Meta Cloud API + Claude Haiku + PostgreSQL.
 
