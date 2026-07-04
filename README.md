@@ -45,7 +45,7 @@ Shared expense tracker with real-time splits, debt settlement flows, and email n
 </td>
 <td width="50%">
 
-### 🗺️ [CareerTransit]((https://github.com/Kapil564/JobTracker))
+### 🗺️ [CareerTransit](https://github.com/Kapil564/CareerTransit-JobTracker)
 Career pivot tool — maps your experience to new roles using AI, backed by Google Drive resume parsing.
 
 `React` `Node.js` `PostgreSQL` `Gemini AI` `Google OAuth 2.0`
@@ -55,7 +55,7 @@ Career pivot tool — maps your experience to new roles using AI, backed by Goog
 <tr>
 <td width="50%">
 
-### 🎨 [QuickDraw.io](https://github.com/Kapil564/quickdraw)
+### 🎨 [QuickDraw.io](https://github.com/Kapil564/QuickDraw.io)
 Real-time collaborative whiteboard. WebSockets + canvas — draw with others, zero lag.
 
 `TypeScript` `Node.js` `Socket.io` `HTML5 Canvas`
