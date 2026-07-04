@@ -45,7 +45,7 @@ Shared expense tracker with real-time splits, debt settlement flows, and email n
 </td>
 <td width="50%">
 
-### 🗺️ [CareerTransit](https://github.com/Kapil564/CareerTransit)
+### 🗺️ [CareerTransit]((https://github.com/Kapil564/JobTracker))
 Career pivot tool — maps your experience to new roles using AI, backed by Google Drive resume parsing.
 
 `React` `Node.js` `PostgreSQL` `Gemini AI` `Google OAuth 2.0`
