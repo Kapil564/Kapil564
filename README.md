@@ -92,9 +92,29 @@ Dashboard to organize applications, track status, and manage resumes — practic
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapil564&theme=dark&hide_border=false&show_icons=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil564&theme=dark&hide_border=false&layout=compact" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=kapil564&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="170" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=kapil564&theme=dark&hide_border=false" height="170" alt="GitHub streak" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kapil564&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170" alt="Top languages" />
+</p>
+
+---
+
+## 🎮 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kapil564/kapil564/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kapil564/kapil564/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kapil564/kapil564/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+---
+
+## 🐍 Snake Animation
+
+<img src="https://raw.githubusercontent.com/kapil564/kapil564/snake-output/snake.svg" alt="Snake animation" />
 
 ---
 
