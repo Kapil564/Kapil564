@@ -17,21 +17,12 @@
 
 ## 🚀 Featured Projects
 
-### [🎙️ Saira Assistant](https://github.com/Kapil564/saira-assistant)
+### [Pixi](https://github.com/Kapil564/saira-assistant)
 **Windows-native voice assistant with pluggable AI providers.**
 
 Built to work offline-first with swappable STT / LLM / TTS providers, modular system commands, and foreground/background lifecycle handling.
 
 `JavaScript` `Node.js` `System Automation` `LLM Integration`
-
----
-
-### [🤖 GenieX Telegram Bot](https://github.com/Kapil564/GenieX)
-**A Telegram bot that stores and retrieves text, photos, and videos by custom name or ID.**
-
-Handles user state, cloud-style media organization, and quick lookup inside Telegram — like a personal AI file clerk.
-
-`JavaScript` `Node.js` `Telegram Bot API` `SQLite/JSON Storage`
 
 ---
 
