@@ -53,15 +53,6 @@ Content scripts + background service worker + smart redirect logic to keep you f
 
 ---
 
-### [💼 CareerTransit](https://github.com/Kapil564/CareerTransit)
-**Job application tracker and resume manager.**
-
-Dashboard to organize applications, track status, and manage resumes — practical product-thinking for job seekers.
-
-`JavaScript` `React` `Node.js`
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -87,10 +78,6 @@ Dashboard to organize applications, track status, and manage resumes — practic
   <img src="https://streak-stats.demolab.com/?user=kapil564&theme=dark&hide_border=false" height="170" alt="GitHub streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kapil564&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170" alt="Top languages" />
-</p>
-
 ---
 
 ## 🎮 Contribution Graph
@@ -100,12 +87,6 @@ Dashboard to organize applications, track status, and manage resumes — practic
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kapil564/kapil564/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kapil564/kapil564/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
-
----
-
-## 🐍 Snake Animation
-
-<img src="https://raw.githubusercontent.com/kapil564/kapil564/snake-output/snake.svg" alt="Snake animation" />
 
 ---
 
